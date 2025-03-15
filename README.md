@@ -1,12 +1,5 @@
-- 👋 Hi, I’m @jmbrathnayke
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
 
-<h1 align="center">Hi there! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px" height="30px"> I'm Lakshitha Wijerathne</h1>
+<h1 align="center">Hi there! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px" height="30px"> I'm Manujaya Rathnayake</h1>
 
 ---
 
@@ -15,9 +8,9 @@ I'm an undergraduate student passionate about programming, Moble Application Dev
 
 ### 🚀 What I'm up to
 - 🌱 Currently learning **Mobile Application Development using Fultter**
-- 💬 Ask me about **C**, **C#**, **ASP .NET**, **React.js**, **Java**, or anything related to programming
-- 📫 How to reach me: [mlswijerathne@gmail.com](mailto:mlswijerathne@gmail.com)
-- ⚡ Fun fact: You can call me **Lakshitha**
+- 💬 Ask me about **OOP**, **React.js**, **Java*, or anything related to programming
+- 📫 How to reach me: janithrathnayake01@gmail.com
+- ⚡ Fun fact: You can call me **Manujaya**
 
 ### 🤝 Connect with me
 <p align="left">
