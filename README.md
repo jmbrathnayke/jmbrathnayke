@@ -14,7 +14,7 @@ I'm an undergraduate student passionate about programming, Moble Application Dev
 
 ### 🤝 Connect with me
 <p align="left">
-  <a href="https://www.linkedin.com/in/lakshitha-wijerathne/" target="_blank">
+  <a href="https://www.linkedin.com/in/manujaya-rathnayake-9549a727a/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
   <a href="https://fb.com/lakshitha.wijerathne" target="_blank">
@@ -27,21 +27,21 @@ I'm an undergraduate student passionate about programming, Moble Application Dev
 
 ### 🛠️ Languages and Tools
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=c,java,cs,html,css,js,php,mysql" alt="Skills" />
+  <img src="https://skillicons.dev/icons?i=c,java,html,css,js,php,mysql,react" alt="Skills" />
 </p>
 
 ### 📊 GitHub Stats
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=mlswijerathne&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=jmbrathnayke&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="Top Languages" />
 </div>
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=mlswijerathne&show_icons=true&locale=en&theme=tokyonight" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=jmbrathnayke&show_icons=true&locale=en&theme=tokyonight" alt="GitHub Stats" />
 </div>
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mlswijerathne&theme=tokyonight" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=jmbrathnayke&theme=tokyonight" alt="GitHub Streak" />
 </div>
 
 ### 🏆 GitHub Trophies
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=mlswijerathne&theme=tokyonight&no-frame=false&no-bg=false&margin-w=4" alt="GitHub Trophies"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=jmbrathnayake&theme=tokyonight&no-frame=false&no-bg=false&margin-w=4" alt="GitHub Trophies"/>
 </p>
