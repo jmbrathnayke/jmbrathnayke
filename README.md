@@ -1,44 +1,49 @@
-# 👋 Hi, I'm Manujaya Rathnayake!  
 
-## 🌍 Connect with Me  
-🔗 [LinkedIn](https://www.linkedin.com/in/manujaya-rathnayake-9549a727a/)  
-🐱 [GitHub](https://github.com/jmbrathnayke)  
-📝 [Medium](
-📧 [Email](mailto:janithrathnayake01@@gmail.com)  
-
-![Profile Views](https://komarev.com/ghpvc/?username=jmbrathnayake&label=Profile%20Views&color=blue&style=flat)  
+<h1 align="center">Hi there! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px" height="30px"> I'm Manujaya Rathnayake</h1>
 
 ---
 
-## 🚀 About Me  
-💻 Passionate about software development, mobile applications, and web technologies.  
-💡 Skilled in **C, OOP, Java, Dart, React.js,Javascript, mySQL, and Flutter**.  
-🌱 Currently learning **Flutter & Firebase** to enhance mobile development skills.  
 
----
 
-## 📊 GitHub Stats  
-![Manujaya's GitHub stats](https://github-readme-stats.vercel.app/api?username=jmbrathnayake&show_icons=true&theme=radical)  
+### 👨‍💻 About Me
+I'm an undergraduate student passionate about programming, Moble Application Development and web development. I am currently focused on learning **Dart** and **Firebase**. Feel free to reach out if you have any questions or want to discuss programming!
 
-## 🔥 GitHub Streak  
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=jmbrathnayake&theme=radical)  
+### 🚀 What I'm up to
+- 🌱 Currently learning **Mobile Application Development using Flutter**
+- 💬 Ask me about **OOP**, **React.js**, **Java**, or anything related to programming
+- 📫 How to reach me: janithrathnayake01@gmail.com
+- ⚡ Fun fact: You can call me **Manujaya**
 
-## 🏆 Top Languages  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jmbrathnayake&layout=compact&theme=radical)  
+### 🤝 Connect with me
+<p align="left">
+  <a href="https://www.linkedin.com/in/manujaya-rathnayake-9549a727a/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="https://fb.com/lakshitha.wijerathne" target="_blank">
+    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook"/>
+  </a>
+  <a href="https://instagram.com/_lakshithaa" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
+  </a>
+</p>
 
----
+### 🛠️ Languages and Tools
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=c,java,html,css,js,php,mysql,react" alt="Skills" />
+</p>
 
-## ⏳ Weekly Coding Activity  
-![Manujaya's Coding Time](https://github-readme-stats.vercel.app/api/wakatime?username=YOUR_WAKATIME_USERNAME&layout=compact&theme=radical)  
+### 📊 GitHub Stats
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=jmbrathnayke&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="Top Languages" />
+</div>
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=jmbrathnayke&show_icons=true&locale=en&theme=tokyonight" alt="GitHub Stats" />
+</div>
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=jmbrathnayke&theme=tokyonight" alt="GitHub Streak" />
+</div>
 
----
-
-## 🚀 Projects  
-
-### 🛠 Web & Mobile Development  
-
-- **[Flutter Firebase Authentication](https://github.com/mlswijerathne/Flutter-Firebase-Authentication.git)** – Authentication system supporting **email/password & Google Sign-In** with Firebase.  
-
----
-
-💡 *"Code is like humor. When you have to explain it, it’s bad."* - *Cory House*
+### 🏆 GitHub Trophies
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=jmbrathnayake&theme=tokyonight&no-frame=false&no-bg=false&margin-w=4" alt="GitHub Trophies"/>
+</p>
