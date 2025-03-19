@@ -81,24 +81,6 @@ const Manujaya = () => {
   <img src="https://github-readme-stats.vercel.app/api/wakatime?username=jmbrathnayake&theme=tokyonight&hide_border=true&bg_color=0D1117&text_color=FFFFFF&title_color=6C63FF" alt="Wakatime Stats" />
 </div>
 
-## 🚀 Featured Projects
-
-<div align="center">
-  <a href="https://github.com/mlswijerathne/AuctionManagement">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=mlswijerathne&repo=AuctionManagement&theme=tokyonight&hide_border=true&bg_color=0D1117&text_color=FFFFFF&title_color=6C63FF&icon_color=F1A11E" />
-  </a>
-  <a href="https://github.com/buildervortex/financeManagement">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=buildervortex&repo=financeManagement&theme=tokyonight&hide_border=true&bg_color=0D1117&text_color=FFFFFF&title_color=6C63FF&icon_color=F1A11E" />
-  </a>
-</div>
-<div align="center">
-  <a href="https://github.com/mlswijerathne/food-order-app">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=mlswijerathne&repo=food-order-app&theme=tokyonight&hide_border=true&bg_color=0D1117&text_color=FFFFFF&title_color=6C63FF&icon_color=F1A11E" />
-  </a>
-  <a href="https://github.com/mlswijerathne/Flutter-Firebase-Authentication">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=mlswijerathne&repo=Flutter-Firebase-Authentication&theme=tokyonight&hide_border=true&bg_color=0D1117&text_color=FFFFFF&title_color=6C63FF&icon_color=F1A11E" />
-  </a>
-</div>
 
 ## 🏆 GitHub Trophies
 
