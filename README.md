@@ -30,7 +30,7 @@
 ## 💻 Tech Stack
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=c,java,dart,js,ts,react,flutter,firebase,nodejs,git,vscode,figma&theme=dark" alt="Tech Skills" />
+  <img src="https://skillicons.dev/icons?i=c,java,dart,js,react,flutter,mysql,mongodb,firebase,nodejs,git,vscode,figma&theme=dark" alt="Tech Skills" />
 </div>
 
 ## 🧠 About Me
