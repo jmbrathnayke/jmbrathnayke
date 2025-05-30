@@ -1,6 +1,8 @@
 <div align="center">
   
-#  Manujaya Rathnayake
+#  Manujaya Rathnayake |  Software Developer | Cloud enthusiast 
+*Architecting cloud-native solutions and engineering robust systems*
+
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=6C63FF&center=true&vCenter=true&random=false&width=435&lines=Software+Developer;Flutter+%26+Firebase+Enthusiast;Mobile+App+Specialist;Web+Developer)](https://git.io/typing-svg)
 
