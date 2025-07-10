@@ -1,6 +1,7 @@
 <div align="center">
   
-#  Manujaya Rathnayake |  Software Developer | Cloud enthusiast 
+#  Manujaya Rathnayake 
+# Tech enthusiast | Software Developer | Cloud enthusiast 
 *Architecting cloud-native solutions and engineering robust systems*
 
 
