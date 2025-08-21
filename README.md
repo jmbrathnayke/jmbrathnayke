@@ -37,7 +37,7 @@
 ## 💻 Tech Stack
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=c,java,spring,dart,js,react,flutter,mysql,postgresql,mongodb,firebase,postman,nodejs,git,intelij,vscode,figma&theme=dark" alt="Tech Skills" />
+  <img src="https://skillicons.dev/icons?i=c,java,spring,dart,js,react,flutter,mysql,postgresql,docker,firebase,postman,nodejs,git,intelij,vscode,figma&theme=dark" alt="Tech Skills" />
 </div>
 
 ## 🧠 About Me
@@ -56,9 +56,9 @@ const Manujaya = () => {
   return (
     <Developer
       type="Full-Stack"
-      specialization="Mobile Development"
-      currentlyLearning="mern stack"
-      languages={["C", "C#", "Java", "Dart", "JavaScript", "TypeScript"]}
+      specialization="Scalable Software Development"
+      currentlyLearning="MERN stack and Azure "
+      languages={["C", "Java", "JavaScript", "Dart"]}
       architectures={["MVC", "MVVM", "Clean Architecture"]}
       funFact="I debug with console.logs and refuse to remove them 'just in case'"
     />
