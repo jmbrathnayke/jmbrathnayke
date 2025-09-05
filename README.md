@@ -5,7 +5,7 @@
 *Architecting cloud-native solutions and engineering robust systems*
 
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=6C63FF&center=true&vCenter=true&random=false&width=435&lines=Software+Developer;Flutter+%26+Firebase+Enthusiast;Mobile+App+Specialist;Web+Developer)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=6C63FF&center=true&vCenter=true&random=false&width=435&lines=Software+Developer;Flutter+%26+Firebase+Enthusiast;Fullstak+Specialist;Cloud+Enthusiast)](https://git.io/typing-svg)
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=header" width="100%"/>
 
@@ -24,6 +24,16 @@
 
   <a href="mailto:janithrathnayake01@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Email%20Me-Gmail-ff6b6b?style=for-the-badge&logo=gmail&logoColor=white&labelColor=ee5253" alt="Email" style="border-radius: 12px;" />
+  </a>
+   <a href="https://manujayadev.me/" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-ManujayaDev-1e90ff?style=for-the-badge&logo=vercel&logoColor=white&labelColor=0f172a" alt="Portfolio" />
+  </a>
+  <a href="https://medium.com/@janithrathnayake01" target="_blank">
+    <img
+      src="https://img.shields.io/badge/Medium-JanithRathnayake-12100E?style=for-the-badge&logo=medium&logoColor=white&labelColor=0f172b"
+      alt="Medium"
+      style="border-radius: 8px;"
+    />
   </a>
 </p>
 
