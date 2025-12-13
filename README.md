@@ -38,7 +38,7 @@
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=jmbrathnayake&style=for-the-badge&color=ff9f43" alt="Profile Views" />
+  <img src="https://komarev.com/ghpvc/?username=jmbrathnayake&style=for-the-badge&color=080300" alt="Profile Views" />
 </p>
 
 
