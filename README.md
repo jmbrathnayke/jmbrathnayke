@@ -1,7 +1,7 @@
 <div align="center">
   
 #  Manujaya Rathnayake 
-# Tech enthusiast | Software Developer | Cloud enthusiast 
+# Tech enthusiast | Software Developer | AI/ML enthusiast 
 *Architecting cloud-native solutions and engineering robust systems*
 
 
@@ -47,7 +47,7 @@
 ## 💻 Tech Stack
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=c,java,spring,dart,js,react,flutter,mysql,postgresql,docker,firebase,postman,nodejs,git,intelij,vscode,figma&theme=dark" alt="Tech Skills" />
+  <img src="https://skillicons.dev/icons?i=c,java,spring,dart,js,react,nextjs,supabase,vercel,typescript,flutter,mysql,postgresql,docker,firebase,postman,nodejs,git,intelij,vscode,figma&theme=dark" alt="Tech Skills" />
 </div>
 
 ## 🧠 About Me
@@ -67,9 +67,9 @@ const Manujaya = () => {
     <Developer
       type="Full-Stack"
       specialization="Scalable Software Development"
-      currentlyLearning="MERN stack and Azure "
+      currentlyLearning="AI/ML Enginerring Topics "
       languages={["C", "Java", "JavaScript", "Dart"]}
-      architectures={["MVC", "MVVM", "Clean Architecture"]}
+      architectures={["MVC", "MVVM", "Clean Architecture", "Microservice"]}
       funFact="I debug with console.logs and refuse to remove them 'just in case'"
     />
   );
